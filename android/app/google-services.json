@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592457748911",
+    "project_id": "my-e-commerce-85f2f",
+    "storage_bucket": "my-e-commerce-85f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592457748911:android:fede61b6cf82dafa9f9f5a",
+        "android_client_info": {
+          "package_name": "com.dotrungtu.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592457748911-k3fk9fd36p09lk5e0vi7kepstao8fvgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkF91KxlUHgezU2xNYVvYHs8oMVSyfjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592457748911-k3fk9fd36p09lk5e0vi7kepstao8fvgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
