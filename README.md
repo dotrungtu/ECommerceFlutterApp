@@ -1,6 +1,6 @@
 # ecommerce
 
-A new Flutter application.
+E-Commerce Flutter App built with Provider State management and using Firebase Auth, Storage.
 
 ## Getting Started
 
